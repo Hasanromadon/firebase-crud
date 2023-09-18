@@ -1,0 +1,13 @@
+{
+  "name": "firebase-crud",
+  "description": "",
+  "version": "0.0.0",
+  "author": "Your name <Your email>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
